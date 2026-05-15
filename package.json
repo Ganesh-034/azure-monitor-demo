@@ -1,0 +1,18 @@
+{
+  "name": "azure-monitor-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "applicationinsights": "^3.15.0",
+    "express": "^5.2.1",
+    "winston": "^3.19.0"
+  }
+}
